@@ -2,7 +2,7 @@
 每日收集喜欢的项目
 * 2019-09-16
 
-  *[油猴脚本-百度网盘不限速]（https://github.com/syhyz1990/baiduyun）
+  * [油猴脚本-百度网盘不限速]（https://github.com/syhyz1990/baiduyun）
 * 2019-09-02
 
   * [科学网](https://github.com/Alvin9999/new-pac/wiki)
