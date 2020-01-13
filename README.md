@@ -1,13 +1,13 @@
 
 每日收集喜欢的项目
 * 2020-01-13
-  * [JS知识] (https://github.com/getify/You-Dont-Know-JS)
+  * [JS知识](https://github.com/getify/You-Dont-Know-JS)
 * 2020-01-08
 
-  * [Hangfire] (https://github.com/HangfireIO/Hangfire)
+  * [Hangfire](https://github.com/HangfireIO/Hangfire)
 * 2019-09-16
 
-  * [油猴脚本-百度网盘不限速]（https://github.com/syhyz1990/baiduyun）
+  * [油猴脚本-百度网盘不限速](https://github.com/syhyz1990/baiduyun)
 * 2019-09-02
 
   * [科学网](https://github.com/Alvin9999/new-pac/wiki)
