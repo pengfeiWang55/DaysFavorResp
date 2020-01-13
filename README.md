@@ -2,6 +2,7 @@
 每日收集喜欢的项目
 * 2020-01-13
   * [JS知识](https://github.com/getify/You-Dont-Know-JS)
+  * [Unity3D](https://github.com/XINCGer/Unity3DTraining)
 * 2020-01-08
 
   * [Hangfire](https://github.com/HangfireIO/Hangfire)
