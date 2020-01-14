@@ -1,6 +1,6 @@
 
 每日收集喜欢的项目
-* 2020-014-14
+* 2020-01-14
   * [dotnet资料集合](https://github.com/thangchung/awesome-dotnet-core)
 * 2020-01-13
   * [JS知识](https://github.com/getify/You-Dont-Know-JS)
