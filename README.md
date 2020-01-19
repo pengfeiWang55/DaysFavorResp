@@ -1,5 +1,7 @@
 
 每日收集喜欢的项目
+* 20120-01-19
+  * [命令行艺术](https://github.com/jlevy/the-art-of-command-line)
 * 2020-01-14
   * [dotnet资料集合](https://github.com/thangchung/awesome-dotnet-core)
 * 2020-01-13
