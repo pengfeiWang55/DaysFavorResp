@@ -1,5 +1,7 @@
 
 每日收集喜欢的项目
+* 2020-02-20
+  * [设计大型可靠系统](https://github.com/binhnguyennus/awesome-scalability)
 * 20120-01-19
   * [命令行艺术](https://github.com/jlevy/the-art-of-command-line)
 * 2020-01-14
