@@ -1,5 +1,8 @@
 
 每日收集喜欢的项目
+
+* 2020-03-02
+  * [算法](https://github.com/labuladong/fucking-algorithm)
 * 2020-02-22
   * [hack攻防](https://github.com/The-Art-of-Hacking/h4cker)
 * 2020-02-20
