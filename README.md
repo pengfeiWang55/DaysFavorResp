@@ -1,6 +1,7 @@
 
 每日收集喜欢的项目
-
+* 2020-03-23
+  * [home-assistant](https://github.com/home-assistant/core)
 * 2020-03-02
   * [算法](https://github.com/labuladong/fucking-algorithm)
 * 2020-02-22
