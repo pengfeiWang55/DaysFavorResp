@@ -1,5 +1,7 @@
 
 每日收集喜欢的项目
+* 2020-03-24
+  * [C#  微信集合](https://github.com/JeffreySu/WeiXinMPSDK)
 * 2020-03-23
   * [home-assistant](https://github.com/home-assistant/core)
 * 2020-03-02
