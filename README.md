@@ -3,6 +3,7 @@
 * 2020-04-03
   * [当你没有创建它，就不算搞懂它！](https://github.com/danistefanovic/build-your-own-x)
   * [可伸缩系统设计](https://github.com/donnemartin/system-design-primer)
+  * [AspNetCore 健康检查](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks)
 * 2020-03-25
   * [JavaScript 视频会议](https://github.com/jitsi/jitsi-meet)
 * 2020-03-24
