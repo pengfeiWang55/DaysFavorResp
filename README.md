@@ -2,6 +2,7 @@
 收集喜欢的项目
 * 2020-04-03
   * [当你没有创建它，就不算搞懂它！](https://github.com/danistefanovic/build-your-own-x)
+  * [可伸缩系统设计] (https://github.com/donnemartin/system-design-primer)
 * 2020-03-25
   * [JavaScript 视频会议](https://github.com/jitsi/jitsi-meet)
 * 2020-03-24
