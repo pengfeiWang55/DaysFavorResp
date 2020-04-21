@@ -1,5 +1,7 @@
 
 收集喜欢的项目
+* 2020-04-21
+  * [自助结账](https://github.com/natewong1313/bird-bot)
 * 2020-04-09
   * [spring源码解读](https://github.com/seaswalker/spring-analysis)
 * 2020-04-03
