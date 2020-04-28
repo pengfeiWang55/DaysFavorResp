@@ -1,5 +1,7 @@
 
 收集喜欢的项目
+* 2020-04-28
+  * [科技周刊](https://github.com/ruanyf/weekly)
 * 2020-04-21
   * [自助结账](https://github.com/natewong1313/bird-bot)
 * 2020-04-09
