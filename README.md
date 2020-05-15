@@ -1,5 +1,7 @@
 
 收集喜欢的项目
+* 2020-05-12
+  * [spug运维平台](https://github.com/openspug/spug)
 * 2020-04-28
   * [科技周刊](https://github.com/ruanyf/weekly)
 * 2020-04-21
