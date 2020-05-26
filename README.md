@@ -1,5 +1,7 @@
 
 收集喜欢的项目
+* 2020-05-26
+  * [node最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
 * 2020-05-12
   * [spug运维平台](https://github.com/openspug/spug)
 * 2020-04-28
