@@ -1,5 +1,7 @@
 
 收集喜欢的项目
+* 2020-11-10
+  * [Esp8266](https://github.com/arendst/Tasmota)
 * 2020-05-26
   * [node最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
 * 2020-05-12
