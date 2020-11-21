@@ -1,5 +1,7 @@
 
 收集喜欢的项目
+* 2020-11-21
+  * [python-youGet](https://github.com/soimort/you-get)
 * 2020-11-10
   * [Esp8266](https://github.com/arendst/Tasmota)
 * 2020-05-26
