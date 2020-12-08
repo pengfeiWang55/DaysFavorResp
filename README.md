@@ -1,5 +1,7 @@
 
 收集喜欢的项目
+* 2020-12-08
+  * [python pentest](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * 2020-11-21
   * [python-youGet](https://github.com/soimort/you-get)
 * 2020-11-10
