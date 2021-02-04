@@ -1,5 +1,7 @@
 
 收集喜欢的项目
+* 2021-02-04
+  * [js算法，数据结构](https://github.com/trekhleb/javascript-algorithms)
 * 2021-01-28
   * [python数据可视化](https://github.com/apache/superset)
 * 2020-12-08
