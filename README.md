@@ -1,5 +1,7 @@
 收集喜欢的项目
-* 2012-06-30
+* 2021-07-06
+  * [人人影视资源](https://github.com/tgbot-collection/YYeTsBot)
+* 2021-06-30
   * [Node.js的下一代Orm，后台开发工程师的噩梦](https://github.com/prisma/prisma)
 * 2021-06-29
   * [视频会议源码](https://github.com/fmeringdal/nettu-meet)
