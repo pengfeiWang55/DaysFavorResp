@@ -1,4 +1,6 @@
 收集喜欢的项目
+* 2022-07-04
+  * [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 * 2021-12-15
   * [C#截屏](https://github.com/NickeManarin/ScreenToGif)
 * 2021-07-28
