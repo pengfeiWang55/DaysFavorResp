@@ -1,4 +1,6 @@
 收集喜欢的项目
+* 2022-07-26
+  * [Python30天放弃之路](https://github.com/Asabeneh/30-Days-Of-Python)
 * 2022-07-04
   * [zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 * 2021-12-15
