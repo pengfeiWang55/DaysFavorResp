@@ -1,4 +1,6 @@
 收集喜欢的项目
+* 2023-03-09
+  * [猴子也能学会的腾讯云函数搭建 OpenAI 国内代理教程](https://github.com/Ice-Hazymoon/openai-scf-proxy)
 * 2022-07-26
   * [Python30天放弃之路](https://github.com/Asabeneh/30-Days-Of-Python)
 * 2022-07-04
