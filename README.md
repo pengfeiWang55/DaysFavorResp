@@ -1,4 +1,6 @@
 收集喜欢的项目
+* 2025-02-08
+  * [奈飞级别字幕生成](https://github.com/Huanshere/VideoLingo)
 * 2024-04-15
   * [系统设计](https://github.com/systemdesign42/system-design)
 * 2023-06-29
