@@ -1,6 +1,6 @@
 收集喜欢的项目
 * 2025-05-22
-  * [中小学教程]（https://github.com/happycola233/tchMaterial-parser）
+  * [中小学教程](https://github.com/happycola233/tchMaterial-parser)
 * 2025-02-08
   * [奈飞级别字幕生成](https://github.com/Huanshere/VideoLingo)
 * 2024-04-15
